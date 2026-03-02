@@ -12,4 +12,4 @@ Xây dựng giao diện đăng nhập bằng React Native (Expo) sử dụng cá
 - TouchableOpacity
 
 ## Hình ảnh kết quả chạy ứng dụng
-![Kết quả](./hieu.jpg)
+![Kết quả](anhth.jpg)
