@@ -7,4 +7,4 @@
 
 
 ## Hình ảnh kết quả chạy ứng dụng
-![Kết quả](anhb.jpg)
+![Kết quả](anhth.jpg)
